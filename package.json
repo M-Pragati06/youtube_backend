@@ -1,0 +1,14 @@
+{
+  "name": "youtube-fullstack",
+  "version": "1.0.0",
+  "description": "Youtube clone backend using node,express and mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube"
+  ],
+  "author": "Pragati More",
+  "license": "ISC"
+}
